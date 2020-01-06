@@ -72,4 +72,4 @@ for edge, frac in zip(final_edges, final_fraction_sum):
 
 plt.plot(final_edges, final_fraction_sum)
 # plt.plot(edges1[:-1], hist1)
-plt.show()
+plt.show() 
